@@ -7,9 +7,8 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
- background-image:
-url (http://imgur.com/a/ukQzx)
+  color: #606c71;
+ background-image: url("http://imgur.com/a/ukQzx"); }
 
 a {
   color: #1e6bb8;
