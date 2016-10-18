@@ -8,7 +8,11 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71;
- background-image: url("http://imgur.com/a/ukQzx"); }
+ background-image: url("http://imgur.com/a/ukQzx");
+background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-attachment: fixed;
+}
 
 a {
   color: #1e6bb8;
