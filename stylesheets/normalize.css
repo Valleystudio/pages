@@ -16,7 +16,11 @@ html {
  * Remove default margin.
  */
 
-body {
+body { background-image: url("http://imgur.com/a/ukQzx");
+background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-attachment: fixed;
+  
   margin: 0;
 }
 
